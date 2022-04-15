@@ -1,0 +1,33 @@
+body {
+    background-color: salmon;
+}
+
+.the_class {
+    color: white;
+}
+
+.hi {
+    color: orange;
+}
+
+.new-h1 {
+    color:aqua;
+}
+
+.extra-page {
+    color: blue;
+}
+
+h1 {
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.group {
+    padding:15px;
+}
